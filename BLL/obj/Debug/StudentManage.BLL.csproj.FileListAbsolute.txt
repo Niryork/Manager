@@ -1,0 +1,9 @@
+D:\NET\Winform\三层架构-qfq\BLL\bin\Debug\BLL.dll
+D:\NET\Winform\三层架构-qfq\BLL\bin\Debug\BLL.pdb
+D:\NET\Winform\三层架构-qfq\BLL\bin\Debug\DAL.dll
+D:\NET\Winform\三层架构-qfq\BLL\bin\Debug\Model.dll
+D:\NET\Winform\三层架构-qfq\BLL\bin\Debug\DAL.pdb
+D:\NET\Winform\三层架构-qfq\BLL\bin\Debug\Model.pdb
+D:\NET\Winform\三层架构-qfq\BLL\obj\Debug\StudentManage.BLL.csprojResolveAssemblyReference.cache
+D:\NET\Winform\三层架构-qfq\BLL\obj\Debug\BLL.dll
+D:\NET\Winform\三层架构-qfq\BLL\obj\Debug\BLL.pdb
