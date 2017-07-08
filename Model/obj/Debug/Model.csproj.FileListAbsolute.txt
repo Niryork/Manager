@@ -1,0 +1,4 @@
+D:\NET\ADO。NET\DAL\Model\bin\Debug\Model.dll
+D:\NET\ADO。NET\DAL\Model\bin\Debug\Model.pdb
+D:\NET\ADO。NET\DAL\Model\obj\Debug\Model.dll
+D:\NET\ADO。NET\DAL\Model\obj\Debug\Model.pdb

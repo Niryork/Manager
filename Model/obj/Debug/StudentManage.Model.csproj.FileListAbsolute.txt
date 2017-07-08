@@ -1,0 +1,5 @@
+D:\NET\Winform\三层架构-qfq\Model\bin\Debug\Model.dll
+D:\NET\Winform\三层架构-qfq\Model\bin\Debug\Model.pdb
+D:\NET\Winform\三层架构-qfq\Model\obj\Debug\Model.dll
+D:\NET\Winform\三层架构-qfq\Model\obj\Debug\Model.pdb
+D:\NET\Winform\三层架构-qfq\Model\obj\Debug\StudentManage.Model.csprojResolveAssemblyReference.cache

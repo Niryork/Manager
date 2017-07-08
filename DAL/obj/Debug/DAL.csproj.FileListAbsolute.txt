@@ -1,0 +1,14 @@
+D:\NET\ADO。NET\DAL\DAL\bin\Debug\DAL.dll
+D:\NET\ADO。NET\DAL\DAL\bin\Debug\DAL.pdb
+D:\NET\ADO。NET\DAL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\NET\ADO。NET\DAL\DAL\obj\Debug\DAL.dll
+D:\NET\ADO。NET\DAL\DAL\obj\Debug\DAL.pdb
+D:\NET\ADO。NET\DAL\DAL\bin\Debug\Model.dll
+D:\NET\ADO。NET\DAL\DAL\bin\Debug\Model.pdb
+D:\NET\Winform\三层架构\DAL\bin\Debug\DAL.dll
+D:\NET\Winform\三层架构\DAL\bin\Debug\DAL.pdb
+D:\NET\Winform\三层架构\DAL\bin\Debug\Model.dll
+D:\NET\Winform\三层架构\DAL\bin\Debug\Model.pdb
+D:\NET\Winform\三层架构\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\NET\Winform\三层架构\DAL\obj\Debug\DAL.dll
+D:\NET\Winform\三层架构\DAL\obj\Debug\DAL.pdb

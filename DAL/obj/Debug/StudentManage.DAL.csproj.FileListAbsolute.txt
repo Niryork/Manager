@@ -1,0 +1,7 @@
+D:\NET\Winform\三层架构-qfq\DAL\bin\Debug\DAL.dll
+D:\NET\Winform\三层架构-qfq\DAL\bin\Debug\DAL.pdb
+D:\NET\Winform\三层架构-qfq\DAL\bin\Debug\Model.dll
+D:\NET\Winform\三层架构-qfq\DAL\bin\Debug\Model.pdb
+D:\NET\Winform\三层架构-qfq\DAL\obj\Debug\StudentManage.DAL.csprojResolveAssemblyReference.cache
+D:\NET\Winform\三层架构-qfq\DAL\obj\Debug\DAL.dll
+D:\NET\Winform\三层架构-qfq\DAL\obj\Debug\DAL.pdb
